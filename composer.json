@@ -1,0 +1,17 @@
+{
+    "name": "qing/tmp",
+    "autoload": {
+        "psr-4": {
+            "be\\": "be"
+        }    
+    },
+    "authors": [
+        {
+            "name": "beQing",
+            "email": "gui@mta.cn"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.6"
+    }
+}
